@@ -25,6 +25,19 @@
 
 
 # Latihan 3
+# Looping baris
+while bar >= 0: # Looping Kolom Spasi Kosong kol = bar while kol > 0: string string + " "kol = kol - 1 # = Looping Kolom Bintang Sisi Kiri kiri = 1 while kiri < (x - (bar-1)): string = string + ." * " kiri = kiri + 1 # Looping Kolom Bintang Sisi Kanan kanan = 1 while kanan < kiri -1: string = string + "*" kanan = kanan + 1
+
+string = string + "\n\n" 
+bar = bar - 1
+
+bar = 1
+# Looping baris
+while bar <= x: kol = bar+1 # Looping Kolom Spasi Kosong while kol > 1: string string + 'kol = kol - 1 # = Looping Kolom Bintang Sisi Kiri kiri = O while kiri < (x - bar): string = string + " * "kiri = kiri + 1 # Looping Kolom Bintang Sisi Kanan kanan kiri while kanan > 1: string = string + "*" kanan = kanan - 1
+
+string string + "\n\n" = bar = bar + 1
+
+print (string)
 # #Hasil belah ketupat
 ![Screenshot (63)](https://user-images.githubusercontent.com/115516617/198205370-8dca52ac-9867-4801-ae98-01062b6e8f5c.png)
 
