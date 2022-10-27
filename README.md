@@ -35,5 +35,7 @@
 # #Hasil luas dan keliling lingkaran
 ![Screenshot (69)](https://user-images.githubusercontent.com/115516617/198209817-165f55ff-b40f-464d-b942-fade71fc23e5.png)
 
+# Sekian terimakasih
+
 
 
