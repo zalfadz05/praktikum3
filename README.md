@@ -2,7 +2,7 @@
 # Nim : 312210320
 # Kelas : TI.22.A3
 
-# Latihan1
+# Latihan 1
 # #Penggunaan end
 ![Screenshot (47)](https://user-images.githubusercontent.com/115516617/198201374-2e8de59c-11af-40f5-8942-20b6fa601c7a.png)
 # #Penggunaan separator
@@ -14,7 +14,7 @@
 ![Screenshot (60)](https://user-images.githubusercontent.com/115516617/198204444-59db2878-9fd8-40ca-b354-78eab6e46fc4.png)
 ![Screenshot (61)](https://user-images.githubusercontent.com/115516617/198204510-64c01ed9-a69c-4264-a35f-8af53d247e3d.png)
 
-# Latihan2
+# Latihan 2
 # #Masukkan variable
 ![Screenshot (58)](https://user-images.githubusercontent.com/115516617/198202102-70134e5f-30a2-4819-92fd-e3cba1eae0a9.png)
 # #Konversi nilai variable
@@ -24,5 +24,10 @@
 
 
 # Latihan 3
+# #Hasil belah ketupat
+![Screenshot (63)](https://user-images.githubusercontent.com/115516617/198205370-8dca52ac-9867-4801-ae98-01062b6e8f5c.png)
+
+# Latihan 4
+# #Menghitung luas dan keliling lingkaran
 
 
