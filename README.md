@@ -28,6 +28,12 @@
 ![Screenshot (63)](https://user-images.githubusercontent.com/115516617/198205370-8dca52ac-9867-4801-ae98-01062b6e8f5c.png)
 
 # Latihan 4
+# #Flowchart luas dan keliling lingkaran
+![Screenshot (67)](https://user-images.githubusercontent.com/115516617/198208498-b4c84307-42c9-4f1a-9ad7-5e8a0b446386.png)
 # #Menghitung luas dan keliling lingkaran
+![Screenshot (65)](https://user-images.githubusercontent.com/115516617/198207404-62f9979e-a32a-46ac-a3b2-34e4586fc531.png)
+# #Hasil luas dan keliling lingkaran
+![Screenshot (64)](https://user-images.githubusercontent.com/115516617/198207561-c24210fb-e03b-490e-acfc-3c915b2fa2f7.png)
+
 
 
