@@ -6,6 +6,7 @@
 # #Penggunaan end
 ![Screenshot (47)](https://user-images.githubusercontent.com/115516617/198201374-2e8de59c-11af-40f5-8942-20b6fa601c7a.png)
 # #Penggunaan separator
+![Screenshot (70)](https://user-images.githubusercontent.com/115516617/198273562-12a9d04d-d37a-429a-93d0-f250fa44acf5.png)
 # #String format 1
 ![Screenshot (56)](https://user-images.githubusercontent.com/115516617/198201838-f69977c7-ff4e-412f-930d-f473653da6f4.png)
 # #String format 2
